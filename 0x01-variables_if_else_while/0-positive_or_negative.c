@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /* more headers goes there */
-
+/** Description: A C program that print positive and negative for n number.*/
 /* betty style doc for function main goes there */
+
 int main(void)
 {
 	int n;
