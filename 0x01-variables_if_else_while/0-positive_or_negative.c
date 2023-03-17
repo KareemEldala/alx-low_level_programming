@@ -5,8 +5,8 @@
 /**
  * main - Entry point
  *
- * Description: 'the program's description'
- * @parameter: describe the parameter
+ * Description: 'the program's print the number if positive or negative or equal zero'
+ * @parameter: parameter that specific the number 
  *
  * Return: Always 0 (Success)
  */
