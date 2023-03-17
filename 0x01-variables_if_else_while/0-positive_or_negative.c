@@ -1,22 +1,25 @@
 #include <stdlib.h>
+
 #include <time.h>
+
 #include <stdio.h>
 
 /**
  * main - Entry point
  *
- * Description: 'the program's print the number if positive or negative or equal zero'
- * @parameter: parameter that specific the number 
+ * Description: A C program that prints if negative podsitive or zero number.
  *
- * Return: Always 0 (Success)
- */
+ * Return: Always 0 (success)
+*/
 
 int main(void)
 {
+
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+
 	if (n > 0)
 	{
 	printf("%d is positive\n", n);
