@@ -21,7 +21,7 @@ int main(void)
 	for (q = p + 1; q <= 99; q++)
 	{
 	putchar((p / 10) + '0');
-	putcahr((p % 10) + '0');
+	putchar((p % 10) + '0');
 	putchar(' ');
 	putcahr((q / 10) + '0');
 	putchar((q % 10) + '0');
