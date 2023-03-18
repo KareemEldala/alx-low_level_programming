@@ -12,9 +12,9 @@ int main(void)
 {
 	int n = 0;
 
-	for(n, n < 10, n++)
+	for (n, n < 10, n++)
 	{
 	printf(n);
 	}
-	return(0);
+	return (0);
 }
