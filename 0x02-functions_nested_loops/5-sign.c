@@ -5,9 +5,9 @@
  *          0 if n is zero and - if n is less
  *          than 0
  *
- *@c: takes input from other function.
+ *@n: takes input from other function.
  *
- * Return: 1 if +, 0 if 0 and -1 if 
+ * Return: 1 if +, 0 if 0 and -1 if
  *
 */
 
