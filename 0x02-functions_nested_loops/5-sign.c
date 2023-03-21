@@ -1,12 +1,13 @@
 #include "main.h"
 
 /**
- * _isalpha - checks if character is a letter
- *              both lowercase or uppercase
+ * print_sign - print + if n is greater than zero,
+ *          0 if n is zero and - if n is less
+ *          than 0
  *
  *@c: takes input from other function.
  *
- * Return: 1 if +, 0 if 0 and -1 if -
+ * Return: 1 if +, 0 if 0 and -1 if 
  *
 */
 
