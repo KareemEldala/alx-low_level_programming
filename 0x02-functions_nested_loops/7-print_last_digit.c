@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  *print_last_digit -  if n is greater than zero,
  *          0 if n is zero and - if n is less
